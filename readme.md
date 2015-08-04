@@ -3,7 +3,6 @@ ES6 Modules with Module Loaders
 
 ## Quick Start
 
-
 1. Install the global packages.
 
 	`npm install gulp -g`
