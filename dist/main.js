@@ -1,13 +1,15 @@
 'use strict';
 
-var _autos = require('autos');
+var _car = require('car');
 
-var car = new _autos.Car({
+var _Truck = require('Truck');
+
+var car = new _car.Car({
 	price: 30000, make: 'Chevy', model: 'Malibu',
 	year: 2014, isElectric: false, isHatchback: false
 });
 
-var truck = new _autos.Truck({
+var truck = new _Truck.Truck({
 	price: 40000, make: 'Ford', model: 'F150',
 	year: 2014, is4by4: true
 });
