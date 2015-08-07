@@ -14,7 +14,7 @@
     "node": ">=0.10.28"
   },
   "dependencies": {
-    "systemjs": "^0.18.4"
+    "systemjs": "^0.18.8"
   },
   "devDependencies": {
     "browser-sync": "^2.8.2",
